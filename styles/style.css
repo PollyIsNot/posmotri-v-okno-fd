@@ -67,17 +67,16 @@ ol {
   flex-direction: row;
   align-items: flex-end;
   width: 1140px;
-  margin: 0;             
   max-width: 1140px;
   margin: 133px 30px;
 }
 
-.content__list{
+.content__list {
   display: grid;
   gap: 30px;
 }
 
-.content__details{
+.content__details {
   flex-grow: 1;
   padding-left: 30px;
 }
@@ -116,7 +115,7 @@ ol {
   overflow: hidden;
 }
 
-.content__video-card-description-container{
+.content__video-card-description-container {
   flex-grow: 1;
 }
 
@@ -125,7 +124,6 @@ ol {
   font-style: none;
   text-decoration: none;
   color: rgb(255, 255, 255);
-
 }
 
 .content__card-link:hover {
@@ -139,6 +137,7 @@ ol {
 .content__card-link:focus {
   outline: none;
 }
+
 .content__card-link:focus-visible {
   outline: 1px solid #fff;
 }
@@ -150,6 +149,7 @@ ol {
 .content__card-link_current:active {
   background-color: #545050;
 }
+
 .content__card-link_current:focus-visible {
   outline: 1px solid #fff;
   outline-offset: -1px;
@@ -166,14 +166,13 @@ ol {
   font-size: 30px;
   line-height: 100%;
   text-transform: uppercase;
-  display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;  
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
-.result{
+.result {
   width: 711px;
 }
 
@@ -225,7 +224,6 @@ ol {
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
-
 }
 
 .search-form__fieldset {
@@ -341,86 +339,3 @@ ol {
 .search-form__pseudo-checkbox {
   cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
