@@ -67,7 +67,6 @@ ol {
   flex-direction: row;
   align-items: flex-end;
   width: 1140px;
-  height: 534px;
   margin: 133px 30px;
 }
 
@@ -79,7 +78,6 @@ ol {
 .content__details {
   flex-grow: 1;
   width: 399px;
-  height: 534px;
   padding-left: 30px;
 }
 
@@ -213,7 +211,6 @@ ol {
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
-  height: 54px;
   width: 711px;
 }
 
